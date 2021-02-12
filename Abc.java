@@ -6,5 +6,7 @@ public class Abc
 		{
 			System.out.println("Hello"+i);
 		}
+		System.out.println("HII");
+
 	}
 }
